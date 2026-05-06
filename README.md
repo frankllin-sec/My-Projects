@@ -1,4 +1,4 @@
-![Banner](https://raw.githubusercontent.com/frankllin-sec/My-Projects/main/projects-frankllin-sec.png)
+![Banner](https://raw.githubusercontent.com/frankllin-sec/My-Projects/main/mry%20projects%20-png.png)
 
 
 | Projects | Date | Link |
