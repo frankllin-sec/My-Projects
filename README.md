@@ -1,5 +1,5 @@
 ![Banner](https://raw.githubusercontent.com/frankllin-sec/My-Projects/main/mry%20projects%20-png.png)
-
+<div align="center">
 
 | Projects | Date | Link |
 |--------|------|------|
@@ -8,3 +8,7 @@
 | Phishing Awareness Campaign for Employees | April 2026 | [View Project](https://github.com/frankllin-sec/phishing-awareness-campaign) |
 | Phishing Simulation Lab — GoPhish | May 2026 | [View Project](https://github.com/frankllin-sec/phishing-simulation-lab/blob/main/README.md) |
 |🛡️ AEGIS Security Platform for SOC — | May 2026 | [View Project](https://frankllin-sec.github.io/aegis/)
+
+
+
+</div>
